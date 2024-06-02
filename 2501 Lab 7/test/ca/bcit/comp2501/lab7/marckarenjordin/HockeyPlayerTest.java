@@ -6,6 +6,15 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Test class for HockeyPlayer.
+ *
+ * @author Marc André Baron-Campeau
+ * @author Karen Lim
+ * @author jordin Pirooz
+ *
+ * @version 1.0
+ */
 class HockeyPlayerTest
 {
     private HockeyPlayer p1;

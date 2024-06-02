@@ -7,8 +7,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Test class for HockeyLeague.
+ *
  * @author Marc André Baron-Campeau
  * @author Karen Lim
+ * @author jordin Pirooz
+ *
  * @version 1.0
  */
 class HockeyLeagueTest
